@@ -1,1 +1,1 @@
-# learn-js
+Java script sample project
